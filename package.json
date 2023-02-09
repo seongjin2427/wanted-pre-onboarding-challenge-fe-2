@@ -8,5 +8,8 @@
 	},
 	"devDependencies": {
 		"jsdoc": "^3.6.11"
+	},
+	"dependencies": {
+		"typescript": "^4.9.5"
 	}
 }
